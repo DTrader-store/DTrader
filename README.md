@@ -30,4 +30,8 @@ DTrader 压缩包解压后有两个文件，DTrader是量化交易工具旁边�
 - **token** 填写你的license
     
 - **api_key** API的认证key。请求API时请求头里添加Auth字段，字段的值等于**api_key**
+
+
+[接口地址](https://www.postman.com/d-trader/workspace/dtrader/folder/4053615-2c0ed742-e05c-412e-807a-f9733f7cf7bd?action=share&creator=4053615&ctx=documentation&active-environment=4053615-b68f02a6-dd37-439e-b0cf-17c2457fc843)
     
+![image](https://github.com/user-attachments/assets/f31ccd58-7938-4520-a0e7-77933eabf4fc)
