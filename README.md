@@ -11,6 +11,8 @@ DTrader 基础工具包 有二个部分：**交易端、行情端**
 
 下载链接 ： 联系微信 DTrader_store 获取
 
+   <img src="https://github.com/user-attachments/assets/1d2d6c0b-6413-4655-ae08-231ed3979376" width="396" height="523">
+
 公众号： DTrader 回复`申请:{资金账户}` 自助获取3天体验
 
 # 安装
